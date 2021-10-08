@@ -33,7 +33,7 @@ class _BodyPageState extends State<BodyPage> {
         children: [
           Expanded(
             child: Padding(
-              padding: const EdgeInsets.all(2.0),
+              padding: const EdgeInsets.all(3.0),
               child: FlatButton(
                 onPressed: () {
                   setState(() {
