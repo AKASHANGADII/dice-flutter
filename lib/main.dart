@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(
     MaterialApp(
+      title:"Dice",
       home: Scaffold(
         backgroundColor: Colors.red[600],
         appBar: AppBar(
